@@ -23,3 +23,4 @@ Neste projeto Angular temos um front-end como exemplo gerado através do Admin L
 
 ### Fique a vontade para implementar qualquer melhoria tanto em funcionalidades como na estruturação dos projetos. 
 ### Qualquer mudança será avaliada.
+
